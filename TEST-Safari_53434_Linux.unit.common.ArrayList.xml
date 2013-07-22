@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="Safari_53434_Linux.unit.common.ArrayList" errors="0" failures="0" tests="9" time="0.001">
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCountIsZeroForEmptyList" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCountIsOneIfAnItemAdded" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCanAddMultipleElements" time="0.001"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCanGetElementByIndex" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCanSetElementByIndex" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCanRemoveByIndex" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCanRemoveFirstItem" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testCanInsertAtIndex" time="0.0"/>
+<testcase classname="Safari_53434_Linux.unit.common.ArrayList" name="testClearRemovesAllItems" time="0.0"/>
+</testsuite>
